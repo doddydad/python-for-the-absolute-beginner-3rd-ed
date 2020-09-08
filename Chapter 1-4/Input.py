@@ -1,0 +1,5 @@
+print("shout out to my nan")
+name = input("put your name here:")
+print("your \'name\' is butt", name, sep='')
+print("\a")
+input()
